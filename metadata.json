@@ -1,0 +1,7 @@
+{
+  "name": "LinkedIn Profile Polisher",
+  "description": "Transform casual photos into professional, approachable LinkedIn-ready headshots using AI-powered lighting, background, and expression refinement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
